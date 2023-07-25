@@ -1,4 +1,3 @@
-![image](https://github.com/RenatoDev4/RenatoDev4/assets/127764189/7ff8c598-4302-47aa-a177-087268922557)<p align="left"> 
 <img src="https://komarev.com/ghpvc/?username=OvinduWijethunge&color=brightgreen" alt="watching_count" />
  </p>
  <p align="center">
