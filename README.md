@@ -20,7 +20,7 @@
 <p align="center">
   <em>
     Olá, sou Renato Moraes, estudante de programação ("A sabedoria é toda riqueza").</a>. <br>
-    <b>Um autodidata apaixonado</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px"> e um Engenheiro de Machine Learning</b>&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Designer.gif" width="36px">&nbsp,<br>que é <b>obcecado</b>
+    <b>Um autodidata apaixonado</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px"> por Machine Learning</b>&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Designer.gif" width="36px">&nbsp,<br>que é <b>obcecado</b>
     por <b>Data science</b> e sempre procurando encontrar padrões que estão ocultos nos dados 
   </em> 
   <br>
