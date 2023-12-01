@@ -6,7 +6,7 @@
 </p>
 <hr>
 <h1 align="center">Olá! Meu nome é Renato Moraes <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h1>
-<h3 align="center">Machine Learning Engineer | Data Scientist </h3>
+<h3 align="center">Data Scientist</h3>
 <p align="center">
 <a href="https://www.linkedin.com/in/renato-moraes-11b546272/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin_re" height="25" width="99" /></a>  
 <a href="https://www.instagram.com/renato.moraes.7568/" target="blank"><img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="insta_re" height="25" width="99" /></a>
