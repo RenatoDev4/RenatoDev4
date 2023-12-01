@@ -33,7 +33,7 @@
 <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;***Sobre mim ....***
 
 ✔ Me chame de: ***O que preferir*** 😊 <br>
-✔ Atualmente estou aprendendo sobre **deep learning**🥰<br>
+✔ Atualmente estou estudando sobre **NLP, LLM's, LangChain e afins**🥰<br>
 ✔ Estou procurando colaborar com qualquer **Projetos de ciência de dados de código aberto**<br>
 ✔ Pergunte-me o que quiser, se eu estiver vivo, responderei em segundos 😉<br>
  
